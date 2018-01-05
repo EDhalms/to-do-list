@@ -1,0 +1,5 @@
+export const
+    ADD_ITEM = 'ADD_ITEM',
+    DONE_ITEM = 'DONE_ITEM',
+    REMOVE_ITEM = 'REMOVE_ITEM',
+    NEW_FILTER = 'NEW_FILTER';
